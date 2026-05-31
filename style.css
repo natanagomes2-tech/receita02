@@ -27,3 +27,20 @@ h1,h2,{
 font-family:"lora",serif;
 }
  
+h1{
+    font-size: 40px;
+    color: #312e2c;
+    line-height: 100%;
+    margin-bottom: 24px;
+
+}
+
+p, li, th, td {
+font-family:"outif", sans-serif;   
+
+}
+p{
+ color-interpolation-filters: #5f564d;
+ line-height: 150%;
+margin-bottom: 32px;
+}
